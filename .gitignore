@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files and datasets
+data/
+*.csv
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+images_pickle/
