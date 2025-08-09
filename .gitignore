@@ -222,3 +222,5 @@ data/
 *.joblib
 
 images_pickle/
+
+models/
